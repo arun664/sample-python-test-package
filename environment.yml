@@ -3,7 +3,7 @@ channels:
   - defaults
   - conda-forge  # Optional: add additional channels if needed
 dependencies:
-  - python=3.12.6
+  - python=3.10
   - pip=24.2
   - setuptools
   - wheel
