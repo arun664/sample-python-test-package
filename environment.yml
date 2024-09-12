@@ -1,0 +1,13 @@
+name: Test
+channels:
+  - defaults
+  - conda-forge  # Optional: add additional channels if needed
+dependencies:
+  - python=3.12.6
+  - pip=24.2
+  - setuptools
+  - wheel
+  - twine
+  - pip:
+    - requests==2.28  # Example: Requests package version 2.28
+    - flask==2.3  # Example: Flask package version 2.3
