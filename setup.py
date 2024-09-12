@@ -14,10 +14,10 @@ setup(
         'unittest2',  # For example, if you are using unittest2
     ],
     # Metadata
-    author='Your Name',
+    author='ArunKumarM',
     author_email='your.email@example.com',
-    description='A short description of the package',
+    description='Sample Test Package Creation in Python',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/my_package',
+    url='https://github.com/arun664/sample-python-test-package',
 )
